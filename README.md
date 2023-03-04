@@ -1,4 +1,4 @@
-# Dashboard, Data Professfionals Survey
+# Dashboard, Data Professionals Survey
 
 Created a dashboard in Power BI, featuring results from a survey of data professionals.
 
